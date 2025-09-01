@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** specializing in 
 - **Bachelor's in Information Technology** from Bahria University
 - **MERN Stack Specialist** with expertise in React.js, Node.js, MongoDB, and Express.js
 - Based in **Pakistan**, working with businesses worldwide
-- **5+ Projects** delivered with focus on scalability and user experience
+- **5+ Self-Learning Projects** built with focus on scalability and user experience
 - Continuously learning and expanding my tech stack through self-directed projects
 
 ###  Technical Skills
