@@ -1,41 +1,77 @@
-[![MasterHead](https://i.imgur.com/KSw8fYE.png)](https://github.com/Moh-Abdul-Rehman)
-<h1 align="center">Hi 👋, I'm Moh Abdul Rehman Mustafa</h1>
-<h3 align="center">Aspiring Frontend Developer | React.js Enthusiast | Building Responsive Web Applications</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+# Hi there! 👋 I'm Moh Abdul Rehman
 
+##  Full-Stack MERN Developer | Building Digital Solutions That Matter
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moh-abdul-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="moh-abdul-rehman" /> </p>
+Welcome to my GitHub! I'm a passionate **Full-Stack Developer** specializing in the **MERN stack**, with a strong foundation in creating scalable, responsive web applications that solve real-world business challenges.
 
-- 🌱 I’m currently working on **React.js** skills
+### About Me
+- **Bachelor's in Information Technology** from Bahria University
+- **MERN Stack Specialist** with expertise in React.js, Node.js, MongoDB, and Express.js
+- Based in **Pakistan**, working with businesses worldwide
+- **5+ Projects** delivered with focus on scalability and user experience
+- Continuously learning and expanding my tech stack through self-directed projects
 
-- 👯 I’m looking to collaborate on **React.js projects** and **open-source contributions**
+###  Technical Skills
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js**
+**Frontend Development:**
+- React.js - Building dynamic, interactive user interfaces
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Web Design
+- Modern UI/UX Implementation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdulrehman-it-professional/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:mohabdulrehmanmustafa"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" /></a>
-</p>
+**Backend Development:**
+- Node.js & Express.js - RESTful API development
+- MongoDB - Database design and optimization
+- Authentication & Authorization
+- API Integration & Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-</p>
+**Development Tools & Practices:**
+- Git & GitHub - Version control and collaboration
+- Deployment & Hosting
+- Agile Development Methodologies
+- Testing & Debugging
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moh-abdul-rehman&show_icons=true&locale=en&layout=compact" alt="moh-abdul-rehman" /></p>
+###  What I Bring to Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moh-abdul-rehman&show_icons=true&locale=en" alt="moh-abdul-rehman" /></p>
+✅ **Problem-Solving Mindset** - I approach each project with analytical thinking to deliver optimal solutions  
+✅ **End-to-End Development** - From concept to deployment, I handle the complete development lifecycle  
+✅ **Performance Focus** - Building fast, efficient applications that scale with business growth  
+✅ **Clean Code Practices** - Writing maintainable, well-documented code that teams can easily work with  
+✅ **Responsive Design** - Ensuring seamless user experiences across all devices and platforms  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moh-abdul-rehman&" alt="moh-abdul-rehman" /></p>
+###  My Development Journey
+
+I've been focusing on building real-world applications using the MERN stack, constantly improving my skills through hands-on practice and self-directed learning. Each project teaches me something new about creating efficient, scalable solutions.
+
+> *"I build modern web applications using the MERN stack, helping businesses solve complex challenges with scalable, user-friendly, and efficient digital solutions."*
+
+###  GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-Abdul-Rehman&layout=compact&theme=tokyonight&hide_border=true)
+
+###  Current Focus
+
+-  **Continuously Learning** - Staying updated with latest React features and Node.js best practices
+-  **Building Projects** - Working on diverse applications to expand my portfolio
+-  **Open to Collaboration** - Ready to contribute to exciting projects and learn from the community
+-  **Seeking Opportunities** - Looking for full-time positions where I can contribute my MERN expertise
+
+###  Let's Connect!
+
+- 🌍 **Portfolio Website:** [abdul-rehman-dev.netlify.app](https://abdul-rehman-dev.netlify.app/)
+- 📧 **Email:** mohabdulrehmanmustafa@gmail.com
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/abdul-rehman-a-professional)
+
+###  Open for Opportunities
+
+I'm actively seeking **Full-Stack Developer** roles where I can:
+- Apply my MERN stack expertise to real-world business challenges
+- Collaborate with dynamic teams on innovative projects
+- Contribute to scalable application development
+- Grow professionally while delivering exceptional results
+
+---
+
+ **Ready to turn ideas into powerful web applications!** Feel free to explore my repositories and reach out for collaboration opportunities.
+
+*"Building the web, one commit at a time."* 🚀
