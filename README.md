@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** specializing in 
 
 I've been focusing on building real-world applications using the MERN stack, constantly improving my skills through hands-on practice and self-directed learning. Each project teaches me something new about creating efficient, scalable solutions.
 
-> *"I build modern web applications using the MERN stack, helping businesses solve complex challenges with scalable, user-friendly, and efficient digital solutions."*
+> *"I build modern web applications using the MERN stack, helping to solve complex challenges with scalable, user-friendly, and efficient digital solutions."*
 
 ###  GitHub Stats
 
