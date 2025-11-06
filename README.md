@@ -16,7 +16,6 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** specializing in 
 **Frontend Development:**
 - React.js - Building dynamic, interactive user interfaces
 - HTML5, CSS3, JavaScript (ES6+)
-- Responsive Web Design
 - Modern UI/UX Implementation
 
 **Backend Development:**
